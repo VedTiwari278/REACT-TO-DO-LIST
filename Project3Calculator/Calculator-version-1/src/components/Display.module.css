@@ -1,0 +1,11 @@
+.display{
+  margin: 10px;
+  border:1px solid aliceblue;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  font-size: 5vh;
+  width:89%;
+  height:45px;
+  text-align: right;
+  }
